@@ -1,0 +1,120 @@
+/* Style sheet for Home page */
+
+
+.index-main {
+    margin-top: 119px;
+}
+
+.intro-1 {
+    display: flex;
+    margin: auto;
+    margin-top: 70px;
+    justify-content: center;
+}
+
+.intro-1-text {
+    max-width: 145px;
+    margin-right: 5px;
+}
+
+.intro-image {
+    max-width: 140px;
+    margin-top: 10px;
+}
+
+.intro-2 {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+.intro-2-text {
+    max-width: 150px;
+    margin-left: 10px;
+}
+
+.explore {
+    font-weight: 400;
+    max-width: 800px;
+    margin: 15px;
+   /* margin: auto; */
+    justify-content: center;
+
+}
+
+.explore h3 {
+    margin-bottom: 5px;
+}
+
+.explore-image {
+    max-width: 160px;
+    margin-top: 30px;
+}
+
+.for-kids {
+    display: flex;
+}
+
+.for-kids-text-1 {
+    max-width: 450px;
+}
+
+.explore p {
+    margin-top: 5px;
+}
+
+.for-kids-image {
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.for-kids h3 {
+    margin-bottom: 0px;
+}
+
+.for-teachers-image {
+    max-width: 150px;
+    margin-top: 20px;
+}
+
+.for-teachers-text {
+    max-width: 410px;
+    margin-left: 10px;
+}
+
+.for-researchers {
+    max-width: 800px;
+}
+
+
+.admission {
+    display: flex;
+    justify-content: center;
+}
+
+.admission-container {
+    background-color: #BFE6E9;
+    max-width: 1000px;
+    margin: 20px;
+}
+
+.admission-container * {
+    margin: 10px;
+}
+
+.keyinfo {
+    max-width: 1000px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 80px;
+}
+
+.keyinfo-container {
+    background-color: #FDCEE1;
+    margin: 10px;
+}
+
+.keyinfo-container * {
+    margin: 5px 20px;
+}
